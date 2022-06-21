@@ -1,0 +1,10 @@
+D:\Абрамов Антон 21КС\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Абрамов Антон 21КС\Calc\Calc\bin\Debug\Calc.exe
+D:\Абрамов Антон 21КС\Calc\Calc\bin\Debug\Calc.pdb
+D:\Абрамов Антон 21КС\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\Абрамов Антон 21КС\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\Абрамов Антон 21КС\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\Абрамов Антон 21КС\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\Абрамов Антон 21КС\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Абрамов Антон 21КС\Calc\Calc\obj\Debug\Calc.exe
+D:\Абрамов Антон 21КС\Calc\Calc\obj\Debug\Calc.pdb
